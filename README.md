@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a Cloud Computing student at Lambton College.
+
+- 🔭 I’m currently working on: A Google Chrome extension for generating passwords
+- 🌱 I’m currently learning: ReactJS and React Native
+- 👯 I’m looking to collaborate on: Machine Learning projects, JavaScript projects
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aennisjr)
+
+
 <!--
 **aennisjr/aennisjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
