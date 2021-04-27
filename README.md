@@ -6,7 +6,7 @@ I'm a Cloud Computing student at Lambton College.
 - 🌱 I’m currently learning: ReactJS and React Native
 - 👯 I’m looking to collaborate on: Machine Learning projects, JavaScript projects
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aennisjr) [![Generic badge](https://img.shields.io/badge/email-aggreyennis@outlook.com-red.svg)](https://shields.io/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aennisjr) [![Generic badge](https://img.shields.io/badge/email-aggreyennis@outlook.com-red.svg)](mailto:aggreyennis@outlook.com)
 
 
 <!--
