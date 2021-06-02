@@ -2,7 +2,7 @@
 
 I'm a Cloud Computing student at Lambton College.
 
-- 🔭 **I’m currently working on:** A Google Chrome extension for generating passwords
+- 🔭 **I’m currently working on:** Web Scraping Scripts
 - 🌱 **I’m currently learning:** ReactJS and React Native
 - 👯 **I’m looking to collaborate on:** Machine Learning projects, JavaScript projects
 
