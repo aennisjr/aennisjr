@@ -1,12 +1,4 @@
-### Hi there 👋
-
-I'm an aspiring Data Scientist and former Cloud Computing student at Lambton College.
-
-- **I’m currently working on:** Web Scraping Scripts
-- **I’m currently learning:** ReactJS and React Native
-- **I’m looking to collaborate on:** Machine Learning projects, JavaScript projects
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aennisjr) [![Generic badge](https://img.shields.io/badge/email-aggreyennis@outlook.com-teal.svg)](mailto:aggreyennis@outlook.com) [![Generic badge](https://img.shields.io/badge/website-https://aennisjr.com-673ab7.svg)](https://aennisjr.com)
+[![Generic badge](https://img.shields.io/badge/email-aggreyennis@outlook.com-teal.svg)](mailto:aggreyennis@outlook.com) [![Generic badge](https://img.shields.io/badge/website-https://aennisjr.com-673ab7.svg)](https://aennisjr.com)
 
 
 <!--
