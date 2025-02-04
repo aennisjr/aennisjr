@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Generic badge](https://img.shields.io/badge/email-aggreyennis@outlook.com-teal.svg)](mailto:aggreyennis@outlook.com) [![Generic badge](https://img.shields.io/badge/website-https://aennisjr.com-673ab7.svg)](https://aennisjr.com)
+
 
 <!--
 **aennisjr/aennisjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
